@@ -11,4 +11,6 @@
 > ##### 1. Visual Studio 2017, Visual Studio 2019에서 사용하시기 바랍니다.(Please use Visual Studio 2017 and Visual Studio 2019.)
 
 #### 시연(Practice Site)
-> ##### 1. VAP190724 013658 - MariaMFC 시연하기 1부, https://youtu.be/D_26h14WUhw, Last Modified 2019-07-24, Accessed by 2019-07-24
+> ##### 1. MariaMFC 시연하기 1부, https://youtu.be/D_26h14WUhw, Last Modified 2019-07-24, Accessed by 2019-07-24
+> ##### 2. MariaMFC 시연하기 2부, https://youtu.be/_jykVFq0Wig, Last Modified 2019-07-24, Accessed by 2019-07-24
+> ##### 3. MariaMFC 시연하기 3부
