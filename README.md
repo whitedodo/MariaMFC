@@ -14,6 +14,7 @@
 > ##### 1. MariaMFC 시연하기 1부, https://youtu.be/D_26h14WUhw, Last Modified 2019-07-24, Accessed by 2019-07-24
 > ##### 2. MariaMFC 시연하기 2부, https://youtu.be/_jykVFq0Wig, Last Modified 2019-07-24, Accessed by 2019-07-24
 > ##### 3. MariaMFC 시연하기 3부, https://youtu.be/Bvw3rsD8wmc, Last Modified 2019-07-24, Accessed by 2019-07-24
+> ##### 4. MariaMFC 시연하기 4부, https://youtu.be/JrQlLMR0kDs, Last Modified 2019-07-29, Accessed by 2019-07-29
 
 #### * 참고(Reference):
 > ##### 1. CWnd::MessageBox | Microsoft Docs, https://docs.microsoft.com/en-us/previous-versions/0eebkf6f(v=vs.140) Last Modified 2019-07-23, Accessed by 2019-07-23
